@@ -1,0 +1,17 @@
+{
+  "name": "GN Purchasing System – MBR2",
+  "short_name": "GN Purchasing",
+  "description": "GN Purchasing & Child Needs system, World Vision Cambodia MBR2",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#F26B21",
+  "lang": "km",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
